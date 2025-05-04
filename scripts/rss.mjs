@@ -43,6 +43,14 @@ async function generateRSS(config, posts, page = 'feed.xml') {
   if (publishPosts.length > 0) {
     const rss = generateRss(config, sortPosts(publishPosts))
 
+    // ✅ Ensure the output folder exists
+    try {
+      mkdirSync(outputFolder, { recursive: true })
+    } catch (err) {
+      console.log('Error creating directory ' + outputFolder)
+      throw err
+    }
+    
     try {
       writeFileSync(`./${outputFolder}/${page}`, rss)
     } catch (err) {
