@@ -50,7 +50,7 @@ async function generateRSS(config, posts, page = 'feed.xml') {
       console.log('Error creating directory ' + outputFolder)
       throw err
     }
-    
+
     try {
       writeFileSync(`./${outputFolder}/${page}`, rss)
     } catch (err) {
