@@ -1,10 +1,10 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Ryan Fitton',
-  author: 'Ryan Fitton',
+  title: 'Jianqiao Cheng',
+  author: 'Jianqiao Cheng',
   description: 'Ryan Fitton personal website',
   headerTitle: 'Ryan Fitton',
-  headerDescription: 'I build things for the web',
+  headerDescription: 'Make Wireless Easy and Fun',
   language: 'en-gb',
   //siteUrl: 'http://localhost:3000',       //Local
   siteUrl: 'https://ryanfitton.co.uk',      //Production
