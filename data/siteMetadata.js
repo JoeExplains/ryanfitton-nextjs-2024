@@ -9,8 +9,8 @@ const siteMetadata = {
   //siteUrl: 'http://localhost:3000',       //Local
   siteUrl: 'https://wavelink.net',      //Production
   siteRepo: 'https://https://github.com/JoeExplains/ryanfitton-nextjs-2024',
-  image: '/cdn-cgi/image/quality=75,format=webp/static/favicons/brandicon.png',
-  socialBanner: '/cdn-cgi/image/quality=75,format=webp/static/img/banner_blue.png',
+  image: '/static/favicons/brandicon.png',
+  socialBanner: '/static/img/banner_blue.png',
   email: 'ryan@ryanfitton.co.uk',
   facebook: 'https://www.facebook.com/rfitton',
   youtube: 'http://www.youtube.com/@Ryan.Fitton',
