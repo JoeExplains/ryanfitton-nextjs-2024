@@ -28,10 +28,10 @@ export default function Policies() {
               <strong>
                 <span className="!text-typography-default !no-underline">ryan＠</span>
                 <a
-                  href="https://ryanfitton.co.uk"
+                  href="https://wavelink.net"
                   className="!text-typography-default !no-underline"
                 >
-                  ryanfitton.co.uk
+                  wavelink.net
                 </a>
               </strong>{' '}
             </p>

@@ -1,16 +1,16 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Jianqiao Cheng',
-  author: 'Jianqiao Cheng',
-  description: 'Ryan Fitton personal website',
-  headerTitle: 'Ryan Fitton',
-  headerDescription: 'Make Wireless Easy and Fun',
+  title: 'Wavelink Official Website',
+  author: 'Joe Cheng',
+  description: 'Wavelink Official Website for Robotics',
+  headerTitle: 'Wavelink',
+  headerDescription: 'Make Robotics Easy and Fun',
   language: 'en-gb',
   //siteUrl: 'http://localhost:3000',       //Local
-  siteUrl: 'https://ryanfitton.co.uk',      //Production
-  siteRepo: 'https://github.com/ryanfitton/ryanfitton.co.uk',
-  image: '/cdn-cgi/image/quality=75,format=webp/static/favicons/favicon-192x192.png',
-  socialBanner: '/cdn-cgi/image/quality=75,format=webp/static/img/twitter-card.png',
+  siteUrl: 'https://wavelink.net',      //Production
+  siteRepo: 'https://https://github.com/JoeExplains/ryanfitton-nextjs-2024',
+  image: '/cdn-cgi/image/quality=75,format=webp/static/favicons/brandicon.png',
+  socialBanner: '/cdn-cgi/image/quality=75,format=webp/static/img/banner_blue.png',
   email: 'ryan@ryanfitton.co.uk',
   facebook: 'https://www.facebook.com/rfitton',
   youtube: 'http://www.youtube.com/@Ryan.Fitton',
