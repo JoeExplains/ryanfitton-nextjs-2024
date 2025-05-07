@@ -28,7 +28,7 @@ export default function Policies() {
               <strong>
                 <span className="!text-typography-default !no-underline">ryan＠</span>
                 <a
-                  href="https://wavelink.net"
+                  href="https://ryanfitton.co.uk"
                   className="!text-typography-default !no-underline"
                 >
                   wavelink.net
