@@ -42,10 +42,7 @@ export default function Home({ posts }) {
                 You can email me at{' '}
                 <strong>
                   <span className="!text-typography-default !no-underline">RosByte＠</span>
-                  <a
-                    href="https://rosbyte.net"
-                    className="!text-typography-default !no-underline"
-                  >
+                  <a href="https://rosbyte.net" className="!text-typography-default !no-underline">
                     gmail.com
                   </a>
                 </strong>{' '}
