@@ -1,7 +1,7 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
   title: 'RosByte Official Website',
-  author: 'Joe Cheng',
+  author: 'RosByte',
   description: 'RosByte Official Website for Robotics',
   headerTitle: 'RosByte',
   headerDescription: 'Make Robotics Easy and Fun',

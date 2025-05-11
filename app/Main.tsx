@@ -35,20 +35,18 @@ export default function Home({ posts }) {
             <div className="prose dark:prose-invert col-span-full md:col-span-8 xl:col-span-6">
               <h2 className="component-title component-title--main">About</h2>
               <p>
-                I'm Ryan, a front-end developer based in Leeds, UK. I've been professionally
-                creating websites for around 10 years (along with design and print work within this
-                time).
+                Welcome to RosByte, make robotics learning easy and fun.
               </p>
 
               <p>
                 You can email me at{' '}
                 <strong>
-                  <span className="!text-typography-default !no-underline">ryan＠</span>
+                  <span className="!text-typography-default !no-underline">RosByte＠</span>
                   <a
-                    href="https://ryanfitton.co.uk"
+                    href="https://rosbyte.net"
                     className="!text-typography-default !no-underline"
                   >
-                    ryanfitton.co.uk
+                    gmail.com
                   </a>
                 </strong>{' '}
               </p>

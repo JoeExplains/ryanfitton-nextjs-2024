@@ -102,7 +102,7 @@ export default function Header() {
               {/* Old image src="/cdn-cgi/image/quality=35,format=webp/static/img/home-header-bg@1.8x.jpg" */}
               <MediaPosterImage
                 slot="poster"
-                src="/cdn-cgi/image/fit=cover,width=600,height=400,quality=35,format=webp/static/img/wavelink.gif"
+                src="/static/img/wavelink.gif"
                 className="hero__video-poster"
               ></MediaPosterImage>
             </MediaController>
