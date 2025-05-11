@@ -44,7 +44,7 @@ export default function Header() {
           {/* Logo */}
           <Link href="/" className="site-header__logo" aria-label={siteMetadata.author}>
             {/* Image dimensions should be 3x the size of the width/height */}
-            <Image src="/static/img/logo.png" alt={siteMetadata.author} width="150" height="34" />
+            <Image src="/static/img/rosbyte_logo.png" alt={siteMetadata.author} width="150" height="34" />
           </Link>
 
           {/* Nav */}
@@ -86,7 +86,7 @@ export default function Header() {
             <MediaController className="hero__video-wrapper">
               <video
                 slot="media"
-                src="/static/vid/home-header-video-15fps.webm"
+                src="/static/vid/wavelink_banner.webm"
                 preload="auto"
                 autoPlay
                 loop
@@ -97,7 +97,7 @@ export default function Header() {
               {/* Old image src="/cdn-cgi/image/quality=35,format=webp/static/img/home-header-bg@1.8x.jpg" */}
               <MediaPosterImage
                 slot="poster"
-                src="/cdn-cgi/image/fit=cover,width=600,height=400,quality=35,format=webp/static/img/home-header-bg@1.8x.jpg"
+                src="/cdn-cgi/image/fit=cover,width=600,height=400,quality=35,format=webp/static/img/wavelink.gif"
                 className="hero__video-poster"
               ></MediaPosterImage>
             </MediaController>
