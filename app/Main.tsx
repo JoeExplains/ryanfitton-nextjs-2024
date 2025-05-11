@@ -34,10 +34,7 @@ export default function Home({ posts }) {
 
             <div className="prose dark:prose-invert col-span-full md:col-span-8 xl:col-span-6">
               <h2 className="component-title component-title--main">About</h2>
-              <p>
-                Welcome to RosByte, make robotics learning easy and fun.
-              </p>
-
+              <p>Welcome to RosByte, making Robotics Simple, Smart, and Fun.</p>
               <p>
                 You can email me at{' '}
                 <strong>
